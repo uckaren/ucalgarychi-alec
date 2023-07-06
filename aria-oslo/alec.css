@@ -14,7 +14,7 @@ body {
 }
 @media (max-width: 600px) {
   body {
-    background-color: lightgreen;
+  background-image: url('https://github.com/uckaren/ucalgarychi-alec/blob/main/aria-oslo/istockphoto-1370962549-612x612.jpg?raw=true');
   }
 }
 h1,
