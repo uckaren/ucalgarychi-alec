@@ -4,7 +4,7 @@ body {
   font-size: 18px;
   line-height: 1.5;
   background-color: pink;
-  background-image: url('https://github.com/uckaren/ucalgarychi-alec/blob/main/aria-oslo/istockphoto-1370962549-612x612.jpg?raw=true');
+  background-image: url('https://github.com/uckaren/ucalgarychi-alec/blob/main/aria-oslo/purple-gradient.jpg?raw=true');
   background-size: cover;
   background-attachment: scroll;
   color: #3caaf3;
@@ -14,7 +14,8 @@ body {
 }
 @media (max-width: 600px) {
   body {
-  background-image: url('https://github.com/uckaren/ucalgarychi-alec/blob/main/aria-oslo/istockphoto-1370962549-612x612.jpg?raw=true');
+  background-image: url('https://github.com/uckaren/ucalgarychi-alec/blob/main/aria-oslo/green-gradient.jpeg?raw=true');
+  background-color: #FF0004;
   }
 }
 h1,
